@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.viewProduct{
+    /* background: red; */
+    border: 2px solid red;
+    margin: 10px;
+    height: 800px;
+    width: 100%;
+    align-items: center;
+}
+
+
+.vp_main_body{
+    border: 2px solid rgb(0, 255, 60);
+    margin: 10px;
+    height: 700px;
+    width: 80%;
+    display: inline-block;
+    
+}
+
+.main_body_itmes{
+    display: flex;
+    margin: 10px;
+    /* border: 2px solid red; */
+
+}
+
+.item-card{
+    border: 2px solid red;
+    margin-right: 10px;
+}
+.item-card img{
+    height: 200px;
+}
+
+

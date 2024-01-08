@@ -1,0 +1,19 @@
+.appProduct{
+    border: 1px solid red;
+    
+}
+
+.file-Image{
+    /* border: 1px solid red; */
+    height: fit-contents;
+    width: 60%;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.preview{
+    border: 1px solid red;
+    height: 200px;
+    width: 80%;
+    margin-top: 10px;
+}
